@@ -1,0 +1,18 @@
+# » vscode 💻
+.vscode/
+*.code-workspace
+
+# » dependencies 📦
+node_modules/
+
+# » database 📦
+database.json
+
+# » .env 📜
+.env
+
+# » twitch tokens 📋
+tokens.json
+
+# » pretty sacred file 📝
+info.txt
