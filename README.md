@@ -1,4 +1,4 @@
-# The Lobster Bot
+# the-lobster-bot 🦞
 
 custom bot for **[Mighty Lobster [OFFICIAL]](https://discord.gg/vQhtrZN "https://discord.gg/vQhtrZN 🔗
 join the server on discord 🐾")**
